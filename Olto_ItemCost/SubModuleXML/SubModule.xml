@@ -1,0 +1,15 @@
+﻿<Module>
+	<Name value="Olto_ItemCost"/>
+	<Id value="Olto_ItemCost"/>
+	<Version value="v1.3.3"/>
+	<SingleplayerModule value="true"/>
+	<MultiplayerModule value="false"/>
+	<SubModules>
+		<SubModule>
+			<Name value="Olto_ItemCost"/>
+			<DLLName value="Olto_ItemCost.dll"/>
+			<SubModuleClassType value="Olto_ItemCost.Olto_ItemCost_SubModule"/>
+			<Tags/>
+		</SubModule>
+	</SubModules>
+</Module>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>												  <!-- vanila / mod -->	
+	<cost_mod_armor>1.0</cost_mod_armor>				  <!-- 1 (float) 0.5 -->
+	<cost_mod_weapon>1.0</cost_mod_weapon>				  <!-- 1 (float) 0.5 -->
+	<cost_mod_horse>1.0</cost_mod_horse>				  <!-- 1 (float) 0.5 -->
+	<cost_mod_saddle>1.0</cost_mod_saddle>				  <!-- 1 (float) 0.5 -->
+	<cost_mod_goods>1.0</cost_mod_goods>				  <!-- 1 (float) 1.0 -->
+	<cost_mod_banner>1.0</cost_mod_banner>				  <!-- 1 (float) 1.0 -->
+	
+	<power_mod_item>2.0</power_mod_item>				  <!-- 2.75 (float) 2.00 (vanila old = 3.00) -->
+	<appearance_item>true</appearance_item>				  <!-- false (bool) true (apply default app 0.5 for all items) -->
+	<change_arrows_formula>true</change_arrows_formula>	  <!-- false (bool) true (plus tier = 2dmg or 1dmg+count3 or count6); vanila (plus tier = 1dmg or count10) -->
+	<tier_wood>1</tier_wood>							  <!-- vanila tier minus 1 (int) mod 1 = tier 1, crude_iron -->
+
+	<cost_mod_appearance>0.5</cost_mod_appearance>		  <!-- default appearance in vanila = 0.5 -->
+<!-- useless without harmony, because data protected -->
+	<cost_mod_only_2h>1.0</cost_mod_only_2h>			  <!-- 0.8 (float) 1 -->
+	
+</Settings>
